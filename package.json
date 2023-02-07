@@ -30,5 +30,8 @@
         "react-query-devtools": "^2.6.3",
         "swr": "^0.3.10",
         "tailwindcss": "^2.0.2"
+    },
+    "engines": {
+    "node": "16.18.1"
     }
 }
